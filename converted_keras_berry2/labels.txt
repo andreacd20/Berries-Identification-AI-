@@ -1,0 +1,7 @@
+0 Blueberry
+1 Gooseberry
+2 Mulberry
+3 Elderberry
+4 Mistletoe Berry
+5 Holly Berry
+6 Ivy Berry
